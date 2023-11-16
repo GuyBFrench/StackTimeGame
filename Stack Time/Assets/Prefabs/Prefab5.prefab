@@ -225,6 +225,7 @@ GameObject:
   - component: {fileID: 9048608149822348485}
   - component: {fileID: 745367424624214791}
   - component: {fileID: 1626080531777222988}
+  - component: {fileID: 2310537229454807300}
   m_Layer: 0
   m_Name: ProceduralBox_bakedHDA
   m_TagString: Untagged
@@ -297,3 +298,17 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5935184530747516463}
   m_Mesh: {fileID: 4300000, guid: 07ef79ca5156d294d88ab5d6a0054321, type: 2}
+--- !u!114 &2310537229454807300
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5935184530747516463}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8088871545bc50345884685f33c27d0a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  materialList: {fileID: 11400000, guid: 122d453f1db2c3c4eab977125369fdb7, type: 2}
+  objectRenderer: {fileID: 745367424624214791}
