@@ -496,7 +496,10 @@ MonoBehaviour:
   EnablePhysicalSize: 0
   Thumbnail: 
   HasThumbnail: 0
-  CurrentStatePreset: 
+  CurrentStatePreset: " <sbspreset pkgurl=\"pkg://Stylized_Bricks\" label=\"\" >\n 
+    <presetinput identifier=\"$outputsize\" uid=\"3696405608\" type=\"8\" value=\"10,10\"
+    />\n  <presetinput identifier=\"moss_global_spread_65\" uid=\"2973849104\" type=\"0\"
+    value=\"0.894\" />\n </sbspreset>\n"
   IsRuntimeOnly: 0
   GenerateAllOutputs: 0
   GenerateAllMipmaps: 1
@@ -1525,7 +1528,7 @@ MonoBehaviour:
           GuiDescription: 
           Type: 0
           WidgetType: 1
-        Data: 0.63
+        Data: 0.894
         NumericalDescription:
           DefaultValue: 0.63
           MinValue: 0
