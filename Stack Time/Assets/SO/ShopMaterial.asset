@@ -9,7 +9,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1f7e4b94d1c19c04b8e810b7f004ce7c, type: 3}
-  m_Name: InstanceLocation
+  m_Script: {fileID: 11500000, guid: fe18dc68e5e0d7e418b74f6432ec5e36, type: 3}
+  m_Name: ShopMaterial
   m_EditorClassIdentifier: 
-  value: {x: 14.071081, y: 9.524439, z: -1.4602556}
+  materials:
+  - {fileID: 2100000, guid: 00355de61a8a4e5429e71cdefa8bca03, type: 2}

@@ -110,6 +110,7 @@ GameObject:
   - component: {fileID: 3510044448011820387}
   - component: {fileID: 4011862478228750404}
   - component: {fileID: 6194352915610159945}
+  - component: {fileID: -7671028610866029799}
   - component: {fileID: 4822396349861614468}
   - component: {fileID: 3705468964810846041}
   - component: {fileID: 6037136549822622067}
@@ -177,6 +178,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9964bbd4d104de546a55921845e1e4f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  draggable: 1
   onDragStart:
     m_PersistentCalls:
       m_Calls:
@@ -287,6 +289,34 @@ MonoBehaviour:
         m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
         m_MethodName: set_enabled
         m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &-7671028610866029799
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8962889103316301919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ed7a94ba124bda458f4ec8ff96d1aec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameActionObj: {fileID: 11400000, guid: d33e4ee6d6296be458f45459d4c947ee, type: 2}
+  onRaiseEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 4011862478228750404}
+        m_TargetAssemblyTypeName: DragObject, Assembly-CSharp
+        m_MethodName: StopDrag
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
