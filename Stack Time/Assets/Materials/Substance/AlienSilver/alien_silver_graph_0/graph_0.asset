@@ -13,21 +13,21 @@ MonoBehaviour:
   m_Name: graph_0
   m_EditorClassIdentifier: 
   AssetPath: Assets/Materials/Substance/AlienSilver/alien_silver.sbsar
-  RawData: {fileID: -244192453324840774, guid: 0bd458007a43c0d48ad2e89e1460a9d5, type: 3}
+  RawData: {fileID: -244192453324840774, guid: ff5df4477bd51c046bfa595f82f3fdf0, type: 3}
   Name: graph_0
   IsRoot: 1
   FlagedForDelete: 0
-  GUID: 1984a315-45ef-4ca5-a00d-bfe7438f73c7
+  GUID: 324106d3-f952-40c8-9cde-11d8fb26d2df
   Index: 0
   Input:
-  - rid: 4454309172761067540
-  - rid: 4454309172761067541
-  - rid: 4454309172761067542
-  - rid: 4454309172761067543
-  - rid: 4454309172761067544
-  - rid: 4454309172761067545
-  - rid: 4454309172761067546
-  - rid: 4454309172761067547
+  - rid: 4638296559780364399
+  - rid: 4638296559780364400
+  - rid: 4638296559780364401
+  - rid: 4638296559780364402
+  - rid: 4638296559780364403
+  - rid: 4638296559780364404
+  - rid: 4638296559780364405
+  - rid: 4638296559780364406
   Output:
   - Index: 0
     VirtualOutputIndex: 0
@@ -385,7 +385,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 4454309172761067540
+    - rid: 4638296559780364399
       type: {class: SubstanceInputInt2, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 0
@@ -404,7 +404,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454309172761067541
+    - rid: 4638296559780364400
       type: {class: SubstanceInputFloat, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 1
@@ -424,7 +424,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454309172761067542
+    - rid: 4638296559780364401
       type: {class: SubstanceInputFloat, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 2
@@ -444,7 +444,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454309172761067543
+    - rid: 4638296559780364402
       type: {class: SubstanceInputInt, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 3
@@ -488,7 +488,7 @@ MonoBehaviour:
             Label: Nickel (Ni)
           - Value: 10
             Label: Platinum (Pt)
-    - rid: 4454309172761067544
+    - rid: 4638296559780364403
       type: {class: SubstanceInputInt, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 4
@@ -530,7 +530,7 @@ MonoBehaviour:
             Label: Galvanized
           - Value: 10
             Label: Hammered
-    - rid: 4454309172761067545
+    - rid: 4638296559780364404
       type: {class: SubstanceInputFloat, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 5
@@ -550,7 +550,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454309172761067546
+    - rid: 4638296559780364405
       type: {class: SubstanceInputFloat, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 6
@@ -570,7 +570,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454309172761067547
+    - rid: 4638296559780364406
       type: {class: SubstanceInputFloat, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 7

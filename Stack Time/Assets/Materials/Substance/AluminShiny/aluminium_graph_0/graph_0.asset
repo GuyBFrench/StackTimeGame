@@ -13,17 +13,17 @@ MonoBehaviour:
   m_Name: graph_0
   m_EditorClassIdentifier: 
   AssetPath: Assets/Materials/Substance/AluminShiny/aluminium.sbsar
-  RawData: {fileID: -244192453324840774, guid: f6c431e667b9fcc43b2a558b9ea801a3, type: 3}
+  RawData: {fileID: -244192453324840774, guid: 7a709da4fcd80d843af3e46b4714d912, type: 3}
   Name: graph_0
   IsRoot: 1
   FlagedForDelete: 0
-  GUID: aa3c9462-ce30-47d1-9b16-f1b0cabd933c
+  GUID: 5fade71c-2775-4c94-a967-8ca1d57878c6
   Index: 0
   Input:
-  - rid: 4454309172761067520
-  - rid: 4454309172761067521
-  - rid: 4454309172761067522
-  - rid: 4454309172761067523
+  - rid: 4638296559780364395
+  - rid: 4638296559780364396
+  - rid: 4638296559780364397
+  - rid: 4638296559780364398
   Output:
   - Index: 0
     VirtualOutputIndex: 5
@@ -125,7 +125,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 4454309172761067520
+    - rid: 4638296559780364395
       type: {class: SubstanceInputInt2, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 0
@@ -144,7 +144,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454309172761067521
+    - rid: 4638296559780364396
       type: {class: SubstanceInputInt, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 1
@@ -166,7 +166,7 @@ MonoBehaviour:
           LabelTrue: 
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454309172761067522
+    - rid: 4638296559780364397
       type: {class: SubstanceInputFloat3, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 2
@@ -186,7 +186,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454309172761067523
+    - rid: 4638296559780364398
       type: {class: SubstanceInputFloat, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 3

@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: graph_0
   m_EditorClassIdentifier: 
   AssetPath: Assets/Materials/Substance/WoodenPlanks/wooden_planks.sbsar
-  RawData: {fileID: -244192453324840774, guid: 9dcb01b2eac83b14ab227029b03456e6, type: 3}
+  RawData: {fileID: -244192453324840774, guid: ff283800747041a4f9eb45d5fe38634e, type: 3}
   Name: graph_0
   IsRoot: 1
   FlagedForDelete: 0
-  GUID: f4887884-5e76-4bb4-b04e-92fe860aa740
+  GUID: add065ca-bb9a-4e0b-b140-88ae324c0e92
   Index: 0
   Input:
-  - rid: 4454308885307326468
-  - rid: 4454308885307326469
+  - rid: 4638296559780364290
+  - rid: 4638296559780364291
   Output:
   - Index: 0
     VirtualOutputIndex: 5
@@ -108,10 +108,7 @@ MonoBehaviour:
   EnablePhysicalSize: 0
   Thumbnail: 
   HasThumbnail: 0
-  CurrentStatePreset: " <sbspreset pkgurl=\"pkg://WoodenPlankStylized\" label=\"\"
-    >\n  <presetinput identifier=\"$outputsize\" uid=\"2575469953\" type=\"8\" value=\"10,10\"
-    />\n  <presetinput identifier=\"$randomseed\" uid=\"3471875027\" type=\"4\" value=\"1829\"
-    />\n </sbspreset>\n"
+  CurrentStatePreset: 
   IsRuntimeOnly: 0
   GenerateAllOutputs: 0
   GenerateAllMipmaps: 1
@@ -126,7 +123,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 4454308885307326468
+    - rid: 4638296559780364290
       type: {class: SubstanceInputInt2, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 0
@@ -145,7 +142,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454308885307326469
+    - rid: 4638296559780364291
       type: {class: SubstanceInputInt, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 1
@@ -156,7 +153,7 @@ MonoBehaviour:
           GuiDescription: 
           Type: 4
           WidgetType: 0
-        Data: 1829
+        Data: 0
         NumericalDescription:
           DefaultValue: 0
           MinValue: 0

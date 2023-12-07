@@ -13,18 +13,18 @@ MonoBehaviour:
   m_Name: graph_0
   m_EditorClassIdentifier: 
   AssetPath: Assets/Materials/Substance/Planks/planks.sbsar
-  RawData: {fileID: -244192453324840774, guid: aeaf43f6ad2362a40a9aaa7950a0632b, type: 3}
+  RawData: {fileID: -244192453324840774, guid: f223023a2d2f78b4592929729a16bc37, type: 3}
   Name: graph_0
   IsRoot: 1
   FlagedForDelete: 0
-  GUID: 3c1421f5-8168-4d3d-b57d-1c042e372363
+  GUID: 70dbee7f-43a8-4402-a54e-de443e8611a1
   Index: 0
   Input:
-  - rid: 4454308885307326635
-  - rid: 4454308885307326636
-  - rid: 4454308885307326637
-  - rid: 4454308885307326638
-  - rid: 4454308885307326639
+  - rid: 4638296559780364379
+  - rid: 4638296559780364380
+  - rid: 4638296559780364381
+  - rid: 4638296559780364382
+  - rid: 4638296559780364383
   Output:
   - Index: 0
     VirtualOutputIndex: 6
@@ -129,8 +129,9 @@ MonoBehaviour:
   HasThumbnail: 0
   CurrentStatePreset: " <sbspreset pkgurl=\"pkg://planks\" label=\"\" >\n  <presetinput
     identifier=\"$outputsize\" uid=\"1577906375\" type=\"8\" value=\"10,10\" />\n 
-    <presetinput identifier=\"vertical_offset\" uid=\"928291069\" type=\"4\" value=\"1\"
-    />\n </sbspreset>\n"
+    <presetinput identifier=\"x_amount\" uid=\"933955711\" type=\"4\" value=\"8\"
+    />\n  <presetinput identifier=\"vertical_offset\" uid=\"928291069\" type=\"4\"
+    value=\"1\" />\n </sbspreset>\n"
   IsRuntimeOnly: 0
   GenerateAllOutputs: 0
   GenerateAllMipmaps: 1
@@ -145,7 +146,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 4454308885307326635
+    - rid: 4638296559780364379
       type: {class: SubstanceInputInt2, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 0
@@ -164,7 +165,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454308885307326636
+    - rid: 4638296559780364380
       type: {class: SubstanceInputInt, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 1
@@ -186,7 +187,7 @@ MonoBehaviour:
           LabelTrue: 
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454308885307326637
+    - rid: 4638296559780364381
       type: {class: SubstanceInputInt, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 2
@@ -197,7 +198,7 @@ MonoBehaviour:
           GuiDescription: Amount of patterns on the X axis.
           Type: 4
           WidgetType: 1
-        Data: 7
+        Data: 8
         NumericalDescription:
           DefaultValue: 7
           MinValue: 1
@@ -208,7 +209,7 @@ MonoBehaviour:
           LabelTrue: 
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454308885307326638
+    - rid: 4638296559780364382
       type: {class: SubstanceInputInt, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 3
@@ -230,7 +231,7 @@ MonoBehaviour:
           LabelTrue: 
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454308885307326639
+    - rid: 4638296559780364383
       type: {class: SubstanceInputInt, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 4

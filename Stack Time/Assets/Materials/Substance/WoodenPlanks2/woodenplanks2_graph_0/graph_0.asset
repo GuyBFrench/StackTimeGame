@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: graph_0
   m_EditorClassIdentifier: 
   AssetPath: Assets/Materials/Substance/WoodenPlanks2/woodenplanks2.sbsar
-  RawData: {fileID: -244192453324840774, guid: 76292a73949e79543847bc458cd5e8a7, type: 3}
+  RawData: {fileID: -244192453324840774, guid: f5b251afbae8dcf409eb31bad4808cdb, type: 3}
   Name: graph_0
   IsRoot: 1
   FlagedForDelete: 0
-  GUID: d9ce4fc1-c82e-455d-a660-9080e428ec0c
+  GUID: d39843d0-42dd-444a-bdd1-72ebaa7db562
   Index: 0
   Input:
-  - rid: 4454308885307326470
-  - rid: 4454308885307326471
+  - rid: 4638296559780364288
+  - rid: 4638296559780364289
   Output:
   - Index: 0
     VirtualOutputIndex: 6
@@ -139,7 +139,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 4454308885307326470
+    - rid: 4638296559780364288
       type: {class: SubstanceInputInt2, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 0
@@ -158,7 +158,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454308885307326471
+    - rid: 4638296559780364289
       type: {class: SubstanceInputInt, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 1

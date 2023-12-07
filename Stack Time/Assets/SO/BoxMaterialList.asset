@@ -13,8 +13,7 @@ MonoBehaviour:
   m_Name: BoxMaterialList
   m_EditorClassIdentifier: 
   materials:
+  - {fileID: 2100000, guid: 95cf540e0e2a28141b14adab2637463e, type: 2}
+  - {fileID: 2100000, guid: a85d40f4d77b20d458ef69373b43ba7c, type: 2}
   - {fileID: 2100000, guid: 5fc3717df1eaba6439c5da0564298b1e, type: 2}
   - {fileID: 2100000, guid: 1efee02b526c80640becc218b0cd3c21, type: 2}
-  - {fileID: 2100000, guid: b960fd79dda30ae438bc886c1faa1c99, type: 2}
-  - {fileID: 2100000, guid: 9ff8ce5337aa09d46aaa6e28082ab8a3, type: 2}
-  - {fileID: 2100000, guid: 95cf540e0e2a28141b14adab2637463e, type: 2}

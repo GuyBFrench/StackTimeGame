@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: graph_0
   m_EditorClassIdentifier: 
   AssetPath: Assets/Materials/Substance/GoldBrushed/brushed-gold-01.sbsar
-  RawData: {fileID: -244192453324840774, guid: 1e33b16690eba1b4ab6043df2fe51446, type: 3}
+  RawData: {fileID: -244192453324840774, guid: 24eb19972269ebe42b815517d212519c, type: 3}
   Name: graph_0
   IsRoot: 1
   FlagedForDelete: 0
-  GUID: d32a9830-0e59-40e4-a0d0-1bafcebc5531
+  GUID: d12faf56-971f-4acd-8818-d6268ce26670
   Index: 0
   Input:
-  - rid: 4454309172761067525
-  - rid: 4454309172761067526
+  - rid: 4638296559780364393
+  - rid: 4638296559780364394
   Output:
   - Index: 0
     VirtualOutputIndex: 0
@@ -379,7 +379,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 4454309172761067525
+    - rid: 4638296559780364393
       type: {class: SubstanceInputInt2, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 0
@@ -398,7 +398,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454309172761067526
+    - rid: 4638296559780364394
       type: {class: SubstanceInputInt, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 1

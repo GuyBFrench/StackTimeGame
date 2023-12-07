@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 04b56234d02184047bea9285a32883ef, type: 3}
   m_Name: ShopItemInstancer3
   m_EditorClassIdentifier: 
-  prefab: {fileID: 0}
+  prefab: {fileID: 7139274236891796338, guid: 1f287a0ce633d55458e222bcf0d3973f, type: 3}
   obj: {fileID: 0}
   prefabList: {fileID: 0}

@@ -13,19 +13,19 @@ MonoBehaviour:
   m_Name: graph_0
   m_EditorClassIdentifier: 
   AssetPath: Assets/Materials/Substance/StoneWall/stone-wall.sbsar
-  RawData: {fileID: -244192453324840774, guid: faf53cf81490a724e941f21e1f26cc99, type: 3}
+  RawData: {fileID: -244192453324840774, guid: 21b23577f5bcc7e43b724425a316a138, type: 3}
   Name: graph_0
   IsRoot: 1
   FlagedForDelete: 0
-  GUID: db47726c-39d7-460d-ac24-9a670af310ee
+  GUID: 884bee47-f24b-4d3c-94e6-e144a5e88a25
   Index: 0
   Input:
-  - rid: 4454309172761067651
-  - rid: 4454309172761067652
-  - rid: 4454309172761067653
-  - rid: 4454309172761067654
-  - rid: 4454309172761067655
-  - rid: 4454309172761067656
+  - rid: 4638296559780364334
+  - rid: 4638296559780364335
+  - rid: 4638296559780364336
+  - rid: 4638296559780364337
+  - rid: 4638296559780364338
+  - rid: 4638296559780364339
   Output:
   - Index: 0
     VirtualOutputIndex: 0
@@ -386,7 +386,7 @@ MonoBehaviour:
   HasThumbnail: 0
   CurrentStatePreset: " <sbspreset pkgurl=\"pkg://Stone_Wall\" label=\"\" >\n  <presetinput
     identifier=\"$outputsize\" uid=\"1675641074\" type=\"8\" value=\"10,10\" />\n 
-    <presetinput identifier=\"target_color_1\" uid=\"251294758\" type=\"2\" value=\"0.399204,0.471698,0.398273\"
+    <presetinput identifier=\"target_color_1\" uid=\"251294758\" type=\"2\" value=\"0.263768,0.424528,0.242302\"
     />\n  <presetinput identifier=\"mask_expand_3\" uid=\"251294762\" type=\"0\"
     value=\"-1\" />\n </sbspreset>\n"
   IsRuntimeOnly: 0
@@ -403,7 +403,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 4454309172761067651
+    - rid: 4638296559780364334
       type: {class: SubstanceInputInt2, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 0
@@ -422,7 +422,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454309172761067652
+    - rid: 4638296559780364335
       type: {class: SubstanceInputInt, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 1
@@ -448,7 +448,7 @@ MonoBehaviour:
             Label: DirectX
           - Value: 1
             Label: OpenGL
-    - rid: 4454309172761067653
+    - rid: 4638296559780364336
       type: {class: SubstanceInputFloat3, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 2
@@ -459,7 +459,7 @@ MonoBehaviour:
           GuiDescription: 
           Type: 2
           WidgetType: 3
-        Data: {x: 0.39920422, y: 0.4716981, z: 0.3982734}
+        Data: {x: 0.26376754, y: 0.4245283, z: 0.24230152}
         NumericalDescription:
           DefaultValue: {x: 0.5, y: 0, z: 0}
           MinValue: {x: 0, y: 0, z: 0}
@@ -468,7 +468,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454309172761067654
+    - rid: 4638296559780364337
       type: {class: SubstanceInputFloat, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 3
@@ -488,7 +488,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454309172761067655
+    - rid: 4638296559780364338
       type: {class: SubstanceInputFloat, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 4
@@ -508,7 +508,7 @@ MonoBehaviour:
           SliderClamp: 0
           EnumValueCount: 0
           EnumValues: []
-    - rid: 4454309172761067656
+    - rid: 4638296559780364339
       type: {class: SubstanceInputFloat, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 5

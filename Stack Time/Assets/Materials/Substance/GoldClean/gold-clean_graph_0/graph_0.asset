@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: graph_0
   m_EditorClassIdentifier: 
   AssetPath: Assets/Materials/Substance/GoldClean/gold-clean.sbsar
-  RawData: {fileID: -244192453324840774, guid: 2ce01647fc1ab224b8742e103b51f126, type: 3}
+  RawData: {fileID: -244192453324840774, guid: f3369bb1ba54f694ba1d179c48c54164, type: 3}
   Name: graph_0
   IsRoot: 1
   FlagedForDelete: 0
-  GUID: e9fa29be-5ff8-4efe-afb9-7537b5c1d2bd
+  GUID: a6fb83d3-5f08-40b3-8c4c-3c6d31a46005
   Index: 0
   Input:
-  - rid: 4454309172761067524
+  - rid: 4638296559780364392
   Output:
   - Index: 0
     VirtualOutputIndex: 0
@@ -378,7 +378,7 @@ MonoBehaviour:
   references:
     version: 2
     RefIds:
-    - rid: 4454309172761067524
+    - rid: 4638296559780364392
       type: {class: SubstanceInputInt2, ns: Adobe.Substance.Input, asm: Adobe.Substance}
       data:
         Index: 0

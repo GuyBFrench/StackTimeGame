@@ -13,6 +13,5 @@ MonoBehaviour:
   m_Name: PillarMaterials
   m_EditorClassIdentifier: 
   materials:
-  - {fileID: 2100000, guid: 970b160af8cc68e4e9270160b172c948, type: 2}
-  - {fileID: 2100000, guid: 5fdc843140e97614d97299064a53ec07, type: 2}
   - {fileID: 2100000, guid: e86728826469d314aa657bf280ea293c, type: 2}
+  - {fileID: 2100000, guid: 970b160af8cc68e4e9270160b172c948, type: 2}
