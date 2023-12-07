@@ -71,3 +71,5 @@ Adobe/
 *.tga.meta
 *.sbsar
 *.sbsar.meta
+
+HoudiniEngineAssetCache/
